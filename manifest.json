@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "number": 1,
+      "audioUrl": "audio/001.mp3",
+      "audioSize": 5119230,
+      "version": 1
+    },
+    {
+      "number": 2,
+      "audioUrl": "audio/002.mp3",
+      "audioSize": 6929363,
+      "version": 1
+    },
+    {
+      "number": 3,
+      "audioUrl": "audio/003.mp3",
+      "audioSize": 6715389,
+      "version": 1
+    },
+    {
+      "number": 4,
+      "audioUrl": "audio/004.mp3",
+      "audioSize": 7793600,
+      "version": 1
+    },
+    {
+      "number": 5,
+      "audioUrl": "audio/005.mp3",
+      "audioSize": 7386497,
+      "version": 1
+    },
+    {
+      "number": 6,
+      "audioUrl": "audio/006.mp3",
+      "audioSize": 5668742,
+      "version": 1
+    },
+    {
+      "number": 7,
+      "audioUrl": "audio/007.mp3",
+      "audioSize": 8202275,
+      "version": 1
+    },
+    {
+      "number": 8,
+      "audioUrl": "audio/008.mp3",
+      "audioSize": 6721424,
+      "version": 1
+    },
+    {
+      "number": 9,
+      "audioUrl": "audio/009.mp3",
+      "audioSize": 6551612,
+      "version": 1
+    },
+    {
+      "number": 10,
+      "audioUrl": "audio/010.mp3",
+      "audioSize": 3591034,
+      "version": 1
+    }
+  ]
+}
