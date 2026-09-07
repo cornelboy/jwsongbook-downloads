@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-07T03:43:47.225Z",
+  "generatedAt": "2026-09-07T10:59:33.432Z",
   "songs": [
     {
       "number": 1,
@@ -24,10 +24,10 @@
       "title": "Our Strength, Our Hope, Our Confidence",
       "audioUrl": "audio/003.mp3",
       "audioSize": 3342832,
-      "version": 1,
+      "version": 2,
       "lyricsUrl": "lyrics/003.elrc",
-      "lyricsSize": 3002,
-      "lyricsSha256": "482890da6473e6b80e08e98dd3530e55a67f665df9ca56d9cadb293c7b289760"
+      "lyricsSize": 3003,
+      "lyricsSha256": "876e9428adc4d748910604edbf386324a140f5763c62ec638a34ddc7359bb853"
     },
     {
       "number": 4,
