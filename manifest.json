@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-07T23:07:21.077Z",
+  "generatedAt": "2026-09-19T16:07:34.017Z",
   "songs": [
     {
       "number": 1,
@@ -1053,10 +1053,10 @@
       "number": 163,
       "title": "Happy Are These Eyes",
       "durationMs": 231000,
-      "version": 1,
+      "version": 2,
       "audioUrl": "audio/163.mp3",
-      "audioSize": 7462570,
-      "audioSha256": "72a2865216daaff737ce21a69b0ae719801789eddc0b866750e9a0a760a03bf6"
+      "audioSize": 3711521,
+      "audioSha256": "59d0352288485ff6f8316707be575186cf7321057ea36369c1ef11b4db8c4633"
     }
   ]
 }
