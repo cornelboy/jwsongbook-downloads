@@ -1,6 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-25T16:29:23.825Z",
+  "generatedAt": "2026-09-26T01:39:19.319Z",
+  "collections": [
+    {
+      "id": "songBook",
+      "label": "Meeting"
+    },
+    {
+      "id": "originalSongs",
+      "label": "Original Songs"
+    }
+  ],
   "songs": [
     {
       "number": 1,
@@ -1246,6 +1256,25 @@
       "audioUrl": "original-songs/audio/001.mp3",
       "audioSize": 4135332,
       "audioSha256": "387b626cd1225eb3ad1f12a315910b387d3111f931be2c99e1b4d8ec4557a724"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 2,
+      "title": "More Than Many Sparrows",
+      "durationMs": 242000,
+      "version": 1,
+      "audioUrl": "original-songs/audio/002.mp3",
+      "audioSize": 3886646,
+      "audioSha256": "ba8fb8a10b7887f2faf00f13df2c7dfc8ea6f929cc8c74911bec584e294a6fc1"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 3,
+      "title": "Let's Stick Together",
+      "version": 1,
+      "audioUrl": "original-songs/audio/003.mp3",
+      "audioSize": 3604524,
+      "audioSha256": "5ef853bccce170fdba8af0bc9a886503fd0a4977175bafd48983c0bf81421fce"
     }
   ]
 }
