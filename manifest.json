@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-27T00:33:18.811Z",
+  "generatedAt": "2026-09-27T02:11:46.300Z",
   "collections": [
     {
       "id": "songBook",
@@ -1284,6 +1284,60 @@
       "audioUrl": "original-songs/audio/004.mp3",
       "audioSize": 4286633,
       "audioSha256": "00965f1cbf69d74abfe553bf41ec18cb968780c9b791ff0833f6f9a1894962c5"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 5,
+      "title": "The Way You “Open Your Hand”",
+      "version": 1,
+      "audioUrl": "original-songs/audio/005.mp3",
+      "audioSize": 3832729,
+      "audioSha256": "1f398b15533b088270fec057957bf2ceb487aeb1f1fcbeb8739ed7b9621db896"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 6,
+      "title": "Happy Are These Eyes",
+      "version": 1,
+      "audioUrl": "original-songs/audio/006.mp3",
+      "audioSize": 3711521,
+      "audioSha256": "59d0352288485ff6f8316707be575186cf7321057ea36369c1ef11b4db8c4633"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 7,
+      "title": "I’ll Wait on Jehovah",
+      "version": 1,
+      "audioUrl": "original-songs/audio/007.mp3",
+      "audioSize": 4031260,
+      "audioSha256": "d07dc4a9dd2e2d695135aec9836a26c363e00017d96ce38bfe7920507cfeb7db"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 8,
+      "title": "Hearer of Prayer",
+      "version": 1,
+      "audioUrl": "original-songs/audio/008.mp3",
+      "audioSize": 4393213,
+      "audioSha256": "0e6ca5aa80b4ae2980c47806f399a91358f402b2bc8b5f41ff9fe1ae34e1784d"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 9,
+      "title": "My Spiritual Need",
+      "version": 1,
+      "audioUrl": "original-songs/audio/009.mp3",
+      "audioSize": 4013706,
+      "audioSha256": "bed8b8ab43d3e675a50a9bd41502fcaad7dc4940a5845e8bcabf1efa7af7bc03"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 10,
+      "title": "A Higher Kind of Love",
+      "version": 1,
+      "audioUrl": "original-songs/audio/010.mp3",
+      "audioSize": 3518424,
+      "audioSha256": "b6b366d2db7d902245f2e68e13eefa072904cb440f041ddd3d2b15c42f160195"
     }
   ]
 }
