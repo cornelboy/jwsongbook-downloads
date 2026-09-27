@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-26T01:39:19.319Z",
+  "generatedAt": "2026-09-27T00:33:18.811Z",
   "collections": [
     {
       "id": "songBook",
@@ -1275,6 +1275,15 @@
       "audioUrl": "original-songs/audio/003.mp3",
       "audioSize": 3604524,
       "audioSha256": "5ef853bccce170fdba8af0bc9a886503fd0a4977175bafd48983c0bf81421fce"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 4,
+      "title": "A Word At The Right Time",
+      "version": 1,
+      "audioUrl": "original-songs/audio/004.mp3",
+      "audioSize": 4286633,
+      "audioSha256": "00965f1cbf69d74abfe553bf41ec18cb968780c9b791ff0833f6f9a1894962c5"
     }
   ]
 }
