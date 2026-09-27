@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-27T02:11:46.300Z",
+  "generatedAt": "2026-09-27T21:20:31.175Z",
   "collections": [
     {
       "id": "songBook",
@@ -1338,6 +1338,204 @@
       "audioUrl": "original-songs/audio/010.mp3",
       "audioSize": 3518424,
       "audioSha256": "b6b366d2db7d902245f2e68e13eefa072904cb440f041ddd3d2b15c42f160195"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 11,
+      "title": "Tell Them You Love Them",
+      "version": 1,
+      "audioUrl": "original-songs/audio/011.mp3",
+      "audioSize": 3762094,
+      "audioSha256": "c2989b02f43281709d3de28df75a725022276a6831433eb6d361f559c685d2e2"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 12,
+      "title": "We See You, Sister",
+      "version": 1,
+      "audioUrl": "original-songs/audio/012.mp3",
+      "audioSize": 4112762,
+      "audioSha256": "26a03abe7166fcbe5aa60ac9acfadce5b971122012d5189fb047192f05a84335"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 13,
+      "title": "The Road to Life",
+      "version": 1,
+      "audioUrl": "original-songs/audio/013.mp3",
+      "audioSize": 3129722,
+      "audioSha256": "1b31cc14363144fd125e546ae0bffb29e7a86d429214d931a8464af430bb2ee1"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 14,
+      "title": "Every Minute",
+      "version": 1,
+      "audioUrl": "original-songs/audio/014.mp3",
+      "audioSize": 3856135,
+      "audioSha256": "d5945e300e0a58e917023f139a052bc7d7f5c004133ff3f7a0b28efbfa789e14"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 15,
+      "title": "To Do Your Will Is My Delight",
+      "version": 1,
+      "audioUrl": "original-songs/audio/015.mp3",
+      "audioSize": 4203041,
+      "audioSha256": "2b6aa9092fb0a62154288cff13fea434cb9f22a379ce19dc5f9b2230b5ddd169"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 16,
+      "title": "It’s Filled With Love",
+      "version": 1,
+      "audioUrl": "original-songs/audio/016.mp3",
+      "audioSize": 4099805,
+      "audioSha256": "322268abc93c3fd5bcbbaaef1f27dd9e274f6e5bbb119392e86c6f92f148de6c"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 17,
+      "title": "I Am in Your Hands",
+      "version": 1,
+      "audioUrl": "original-songs/audio/017.mp3",
+      "audioSize": 3647155,
+      "audioSha256": "c47d7dbca63dd1323b1b3f8024a0ef3e2c83c76e2adcc8aa4e6f4a04acbb0869"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 18,
+      "title": "Give Jehovah Glory",
+      "version": 1,
+      "audioUrl": "original-songs/audio/018.mp3",
+      "audioSize": 4821621,
+      "audioSha256": "8996955848983f193e9c23de9490baf5ab4f6dc69df1210fb6f44215f11e79fc"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 19,
+      "title": "The Power Beyond My Own",
+      "version": 1,
+      "audioUrl": "original-songs/audio/019.mp3",
+      "audioSize": 4198026,
+      "audioSha256": "886ad45879f5497a018145f3619098520a72309e66a74d71d2c06c378c7108dd"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 20,
+      "title": "Living Peacefully in a Peaceless World",
+      "version": 1,
+      "audioUrl": "original-songs/audio/020.mp3",
+      "audioSize": 3841924,
+      "audioSha256": "5a242b136b6e1d2159cbae76ff28aedeb5ad92ed1437293e29d9c596a5c94a4f"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 21,
+      "title": "It Won’t Be Long",
+      "version": 1,
+      "audioUrl": "original-songs/audio/021.mp3",
+      "audioSize": 4076817,
+      "audioSha256": "0f3dc092af1dd1ce00091d792e2b6b1d1e7cc571c0ce08d5341f4326a00bff97"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 22,
+      "title": "Let’s Keep It Simple",
+      "version": 1,
+      "audioUrl": "original-songs/audio/022.mp3",
+      "audioSize": 3403485,
+      "audioSha256": "689bc4029598641c3954ee5ab1c9efdb83f23d64e66c88b833ed4a29ef50334a"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 23,
+      "title": "Pause and Reset",
+      "version": 1,
+      "audioUrl": "original-songs/audio/023.mp3",
+      "audioSize": 3274336,
+      "audioSha256": "7aaf286e7fbf9835494639593eca38610cfc69a253bd5f2e78d4582228e43b78"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 24,
+      "title": "Good News",
+      "version": 1,
+      "audioUrl": "original-songs/audio/024.mp3",
+      "audioSize": 4401154,
+      "audioSha256": "d5644eb252ba1bcc188a0f99a0048129ace61cd7c56fbdb498cba98e7110bc2f"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 25,
+      "title": "The Real Life",
+      "version": 1,
+      "audioUrl": "original-songs/audio/025.mp3",
+      "audioSize": 4092282,
+      "audioSha256": "3484095abc52c6e8f8e4e166544ebefb48e34391db30493c9327662fe2d245ef"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 26,
+      "title": "Peace Becomes Just Like a River",
+      "version": 1,
+      "audioUrl": "original-songs/audio/026.mp3",
+      "audioSize": 3869092,
+      "audioSha256": "4a212c5e5192cab5ce70c71ba70cedf4e8ccbbfbd27de61137cb31973096f619"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 27,
+      "title": "Feed My Faith",
+      "version": 1,
+      "audioUrl": "original-songs/audio/027.mp3",
+      "audioSize": 3867838,
+      "audioSha256": "920697064386b9c961bf8a4d3c0f425d1d103f79646975ab9656a8b002f0b776"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 28,
+      "title": "We Can’t Hold Back",
+      "version": 1,
+      "audioUrl": "original-songs/audio/028.mp3",
+      "audioSize": 4022483,
+      "audioSha256": "8b173ef9b8ace7b2b9d6fd53a86f2e64537d590fe86343998ec28074fc4d494d"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 29,
+      "title": "When All Hearts Sing as One",
+      "version": 1,
+      "audioUrl": "original-songs/audio/029.mp3",
+      "audioSize": 4053830,
+      "audioSha256": "68753c7fd99309461ab543b66cd232e1b6e7f2ba5ba71f9a9fdd37e15523b484"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 30,
+      "title": "He Knows Us",
+      "version": 1,
+      "audioUrl": "original-songs/audio/030.mp3",
+      "audioSize": 3888318,
+      "audioSha256": "1de1002c3ebcc7a802483ebdbdc8c9f7ce273e38944e56abaafe90817e3e5c35"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 31,
+      "title": "Two Small Coins",
+      "version": 1,
+      "audioUrl": "original-songs/audio/031.mp3",
+      "audioSize": 3837745,
+      "audioSha256": "b299ad957bfdb818815dbfd4757b0533859ba4721b1ebf22d4683b4576aa0d9e"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 32,
+      "title": "Home",
+      "version": 1,
+      "audioUrl": "original-songs/audio/032.mp3",
+      "audioSize": 3270156,
+      "audioSha256": "e4109d19fdaea8548e4c3b7e040922ba3c9fff86a6b1fb3b4e0719b6ac50a7b1"
     }
   ]
 }
