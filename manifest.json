@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T15:30:19.881Z",
+  "generatedAt": "2026-10-03T17:03:50.154Z",
   "collections": [
     {
       "id": "songBook",
@@ -29,7 +29,10 @@
       "collection": "songBook",
       "audioUrl": "audio/002.mp3",
       "audioSize": 3449812,
-      "version": 1
+      "version": 1,
+      "lyricsUrl": "lyrics/002.elrc",
+      "lyricsSize": 3035,
+      "lyricsSha256": "587f8927c62bcd49a3ce962f29d406b26abb45c4f76038a3fa90af66a015b7af"
     },
     {
       "number": 3,
