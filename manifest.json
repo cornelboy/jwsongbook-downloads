@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T01:51:28.840Z",
+  "generatedAt": "2026-10-03T15:23:50.705Z",
   "collections": [
     {
       "id": "songBook",
@@ -1833,6 +1833,96 @@
       "audioUrl": "original-songs/audio/065.mp3",
       "audioSize": 3777559,
       "audioSha256": "f59b74254df40185441325f7e7eca2334d78a65082f0a398edca0ab385ec6422"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 66,
+      "title": "Each Day Has Its Own Anxieties",
+      "version": 1,
+      "audioUrl": "original-songs/audio/066.mp3",
+      "audioSize": 4423306,
+      "audioSha256": "42568484e5aa99b8bdab92e1dd65573a34d754efe0901eb258e0a81d45a7b61a"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 67,
+      "title": "All I Can Give",
+      "version": 1,
+      "audioUrl": "original-songs/audio/067.mp3",
+      "audioSize": 4097715,
+      "audioSha256": "2e6364192e08e461c6b80c0750f95cf026d0a63d555bd646acca9c86a442588d"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 68,
+      "title": "Give Me Courage",
+      "version": 1,
+      "audioUrl": "original-songs/audio/068.mp3",
+      "audioSize": 4203877,
+      "audioSha256": "7d0cef719552d50eed7ace82cd49c345dfdacb8395af91a3f8f34c7af6bababe"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 69,
+      "title": "With Jehovah, We Are One",
+      "version": 1,
+      "audioUrl": "original-songs/audio/069.mp3",
+      "audioSize": 3592403,
+      "audioSha256": "603538fd66fcd925cb44cec90e07fb5f735f550292a77da30e564d7449834370"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 70,
+      "title": "You Can Count on Me",
+      "version": 1,
+      "audioUrl": "original-songs/audio/070.mp3",
+      "audioSize": 3805562,
+      "audioSha256": "7be3e89b5352ccde77db90d7a8d8b9d143ae673f8bf4c64e582bfbca559ccc9c"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 71,
+      "title": "True Friends",
+      "version": 1,
+      "audioUrl": "original-songs/audio/071.mp3",
+      "audioSize": 3990718,
+      "audioSha256": "612b6534186fbfc422d196a59695189d48ae546e1eca88ade40a10ad9c1cd3c7"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 72,
+      "title": "The Search",
+      "version": 1,
+      "audioUrl": "original-songs/audio/072.mp3",
+      "audioSize": 4289559,
+      "audioSha256": "bc73d9f5a56c283fa1a14a8bb6f7aa3b293b3091f0e751e4eac5340791123da9"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 73,
+      "title": "Do Not Be Afraid",
+      "version": 1,
+      "audioUrl": "original-songs/audio/073.mp3",
+      "audioSize": 4677843,
+      "audioSha256": "15e2388c57e65b8fb00353ee871a978f76aa5f2e7c8ba66d6958e9a0e63a9879"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 74,
+      "title": "Brotherly Love",
+      "version": 1,
+      "audioUrl": "original-songs/audio/074.mp3",
+      "audioSize": 3524693,
+      "audioSha256": "344e185056078fa98456a1d078552101cdc372505ffa1006e1464df6af343be6"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 75,
+      "title": "Never Alone",
+      "version": 1,
+      "audioUrl": "original-songs/audio/075.mp3",
+      "audioSize": 4058009,
+      "audioSha256": "6b17e2be59793dc0b59261030ee357f6e09d5cc680cd36d2d0557a4877bdfa69"
     }
   ]
 }
