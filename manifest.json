@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-27T21:20:31.175Z",
+  "generatedAt": "2026-10-03T01:51:28.840Z",
   "collections": [
     {
       "id": "songBook",
@@ -1536,6 +1536,303 @@
       "audioUrl": "original-songs/audio/032.mp3",
       "audioSize": 3270156,
       "audioSha256": "e4109d19fdaea8548e4c3b7e040922ba3c9fff86a6b1fb3b4e0719b6ac50a7b1"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 33,
+      "title": "It Will Not Be Late!",
+      "version": 1,
+      "audioUrl": "original-songs/audio/033.mp3",
+      "audioSize": 4009108,
+      "audioSha256": "94a49dfa51fc5440be8d44ac777281bda7b77ae81c854128fa32c24b5af16be6"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 34,
+      "title": "Draw Close to Me",
+      "version": 1,
+      "audioUrl": "original-songs/audio/034.mp3",
+      "audioSize": 4435426,
+      "audioSha256": "819b3b644544344ce802241347e689f8ae030446eeea4c8def23c16fa5233d9f"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 35,
+      "title": "Peace at Last!",
+      "version": 1,
+      "audioUrl": "original-songs/audio/035.mp3",
+      "audioSize": 3452804,
+      "audioSha256": "782708eb3c6cca73552e2edea3a063a0ae11110b8e79f701da228ae071e9d330"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 36,
+      "title": "Live for Forever",
+      "version": 1,
+      "audioUrl": "original-songs/audio/036.mp3",
+      "audioSize": 3652171,
+      "audioSha256": "53ba4b6ec08e4cb0cc17586c317882b93d34c0516d1ec0b9857617942330bac3"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 37,
+      "title": "Learn From a Fall",
+      "version": 1,
+      "audioUrl": "original-songs/audio/037.mp3",
+      "audioSize": 3751227,
+      "audioSha256": "0da52cc49f0d1c835cd71b14f2c995b04a31853f43f9591fe22d65a4ad1e9452"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 38,
+      "title": "Friends Again",
+      "version": 1,
+      "audioUrl": "original-songs/audio/038.mp3",
+      "audioSize": 3857389,
+      "audioSha256": "0c941bfec98094359916dd5f0333665074b47c11a99a240595eca07a719a4d90"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 39,
+      "title": "I Know Jehovah's With Me",
+      "version": 2,
+      "audioUrl": "original-songs/audio/039.mp3",
+      "audioSize": 4108164,
+      "audioSha256": "7954687a780d768a3693d0efa8281e9435cabc8be89f2df344df658113244156"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 40,
+      "title": "To Whom Could I Go Away",
+      "version": 2,
+      "audioUrl": "original-songs/audio/040.mp3",
+      "audioSize": 4359358,
+      "audioSha256": "e1e389ccd4607a031ed21a381b09cdc98a2f50132879aa6219af540ba9fb604c"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 41,
+      "title": "Together We Are Strong",
+      "version": 2,
+      "audioUrl": "original-songs/audio/041.mp3",
+      "audioSize": 4081415,
+      "audioSha256": "261fc79b7fbf6f17cf8d660e6c68234f665a306aa2c2aab3683fd053dba2ef7d"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 42,
+      "title": "Jehovah's Family",
+      "version": 2,
+      "audioUrl": "original-songs/audio/042.mp3",
+      "audioSize": 4033350,
+      "audioSha256": "b3a27ab2e22ca7cfa358705891d0615f0450f2df55e8acddbc76d4c459b809bf"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 43,
+      "title": "With Eyes of Faith",
+      "version": 2,
+      "audioUrl": "original-songs/audio/043.mp3",
+      "audioSize": 4239822,
+      "audioSha256": "d2cc8a1d8b35009334a1bcf90edb310f8b8f837dfeaf7c8092df1596601a7930"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 44,
+      "title": "Make Time for Jehovah",
+      "version": 2,
+      "audioUrl": "original-songs/audio/044.mp3",
+      "audioSize": 4108582,
+      "audioSha256": "666e946c64ee120d03ca435281ac75adeb3ae26a5b751d183cabebf55682023b"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 45,
+      "title": "You Will See",
+      "version": 2,
+      "audioUrl": "original-songs/audio/045.mp3",
+      "audioSize": 3599926,
+      "audioSha256": "c7c834e4b7b1b892959a6ae4df04112a3f9695eafdf013769c83588353ff7fa7"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 46,
+      "title": "Our Joy Eternally",
+      "version": 2,
+      "audioUrl": "original-songs/audio/046.mp3",
+      "audioSize": 4070130,
+      "audioSha256": "51643bb228e269141f04742712e4c510009d55fc3eb1a746dedeb823000ccda5"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 47,
+      "title": "Use Your Strength for Jehovah's Name",
+      "version": 2,
+      "audioUrl": "original-songs/audio/047.mp3",
+      "audioSize": 3611629,
+      "audioSha256": "be95d595349a41344eff0442f2d8cbe5acf0604ba36472bb507df6eaf27b3540"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 48,
+      "title": "One United People",
+      "version": 2,
+      "audioUrl": "original-songs/audio/048.mp3",
+      "audioSize": 4324667,
+      "audioSha256": "f12ac6f9a3b3bd11124d9cdac5b52e25583395c85f11deba7aaa65ef5ea058cb"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 49,
+      "title": "Always Rejoice",
+      "version": 2,
+      "audioUrl": "original-songs/audio/049.mp3",
+      "audioSize": 4033350,
+      "audioSha256": "77e2ea852c1c006e767fb7ac4584c2f2b3717644b469807aee0e2b216964ca25"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 50,
+      "title": "Safeguard Your Mind",
+      "version": 2,
+      "audioUrl": "original-songs/audio/050.mp3",
+      "audioSize": 3588641,
+      "audioSha256": "49477f5117b26f73e0c2f2839dc86061be2a41ebcbc3a7465edd0e4fd6a3a3bf"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 51,
+      "title": "My Only One",
+      "version": 2,
+      "audioUrl": "original-songs/audio/051.mp3",
+      "audioSize": 4009526,
+      "audioSha256": "21e3a1b680acc1dec66fcc832c0f95f87f75eda217dca7fb8cc3811d993a2704"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 52,
+      "title": "We Won't Stop Now",
+      "version": 2,
+      "audioUrl": "original-songs/audio/052.mp3",
+      "audioSize": 3449461,
+      "audioSha256": "939a6a3496617a97e5ab560c0356b59cf7f1c36afafa2816ce7e540e468a4aac"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 53,
+      "title": "Run the Race",
+      "version": 2,
+      "audioUrl": "original-songs/audio/053.mp3",
+      "audioSize": 2881454,
+      "audioSha256": "4b14dea11a63a487ddf450edb74e61c60180a9ea8fabe2595c2c2c040c9db7fa"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 54,
+      "title": "Forgive Freely",
+      "version": 2,
+      "audioUrl": "original-songs/audio/054.mp3",
+      "audioSize": 3535142,
+      "audioSha256": "df581dc149ea7931c7ed10a321fa0522c74124664afa90ef77fdc3196f2ef170"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 55,
+      "title": "Please Be Convinced",
+      "version": 2,
+      "audioUrl": "original-songs/audio/055.mp3",
+      "audioSize": 3917575,
+      "audioSha256": "b9847fd273cc76ab62963582213f029e31c08b08ac03e2e9ac4c98a208b05c56"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 56,
+      "title": "Just Like a Child",
+      "version": 2,
+      "audioUrl": "original-songs/audio/056.mp3",
+      "audioSize": 4272004,
+      "audioSha256": "25325d1c463f9b823842c18333cad541d75fde098fd2aa02065baeee90c25be7"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 57,
+      "title": "Roll It on Him",
+      "version": 2,
+      "audioUrl": "original-songs/audio/057.mp3",
+      "audioSize": 3715283,
+      "audioSha256": "91d45c4d9176938105ef07cf7f59e4ec6d064d8ea0a89d48ffeb39e989847d5e"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 58,
+      "title": "Unfailing Love",
+      "version": 2,
+      "audioUrl": "original-songs/audio/058.mp3",
+      "audioSize": 3761676,
+      "audioSha256": "f6ea9e5bc026fec1a1851619d779a2b36d4c3d815cec87dff8cc1623c18605c9"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 59,
+      "title": "I Give My Life to You",
+      "version": 2,
+      "audioUrl": "original-songs/audio/059.mp3",
+      "audioSize": 4264063,
+      "audioSha256": "c305ee6843296d11fc1eba07a4a7a2b6b5bccc7941835fddb9a52a48f8c01eeb"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 60,
+      "title": "The New World to Come",
+      "version": 2,
+      "audioUrl": "original-songs/audio/060.mp3",
+      "audioSize": 4265317,
+      "audioSha256": "da5ef6e3c34f86964e4cf4cd5347e793085baa8fc24be0c51bc1991d1c95d001"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 61,
+      "title": "Jehovah’s Always by Our Side",
+      "version": 2,
+      "audioUrl": "original-songs/audio/061.mp3",
+      "audioSize": 4187159,
+      "audioSha256": "82e890235a48304899d3aa60471fde91d668a76c0507dbdd72eaee90605755a5"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 62,
+      "title": "Fight the Fine Fight of the Faith",
+      "version": 2,
+      "audioUrl": "original-songs/audio/062.mp3",
+      "audioSize": 3753735,
+      "audioSha256": "d7731b0d0c7a734f6e462856fa018dc566693477b74b3c530eb1105cf95c668c"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 63,
+      "title": "We're Your Family",
+      "version": 2,
+      "audioUrl": "original-songs/audio/063.mp3",
+      "audioSize": 3799711,
+      "audioSha256": "36511bf4419aba2ab93c44d517b2e95f3c5e919b0de5b2a86e524d3f205f5f0d"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 64,
+      "title": "Thankful for God's Creation",
+      "version": 2,
+      "audioUrl": "original-songs/audio/064.mp3",
+      "audioSize": 3937637,
+      "audioSha256": "5bc776447ba734bd0d8c41727d4fd873b5455b667303b5fbdf9ccb359b828ba1"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 65,
+      "title": "Be Courageous and Strong",
+      "version": 2,
+      "audioUrl": "original-songs/audio/065.mp3",
+      "audioSize": 3777559,
+      "audioSha256": "f59b74254df40185441325f7e7eca2334d78a65082f0a398edca0ab385ec6422"
     }
   ]
 }
