@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T15:23:50.705Z",
+  "generatedAt": "2026-10-03T15:30:19.881Z",
   "collections": [
     {
       "id": "songBook",
@@ -1923,6 +1923,96 @@
       "audioUrl": "original-songs/audio/075.mp3",
       "audioSize": 4058009,
       "audioSha256": "6b17e2be59793dc0b59261030ee357f6e09d5cc680cd36d2d0557a4877bdfa69"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 76,
+      "title": "I’m Making a Change",
+      "version": 1,
+      "audioUrl": "original-songs/audio/076.mp3",
+      "audioSize": 3953519,
+      "audioSha256": "bb79bcdb519f5edf15eef5eb052fc269bd4b553a991fb39c39769a9c8a7c0660"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 77,
+      "title": "Confident in You",
+      "version": 1,
+      "audioUrl": "original-songs/audio/077.mp3",
+      "audioSize": 3763766,
+      "audioSha256": "68cb10e0ded4a01646c2482956c55dae61a85198da7afd4044cfb665ca74a605"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 78,
+      "title": "A Place That Will Bring You Praise",
+      "version": 1,
+      "audioUrl": "original-songs/audio/078.mp3",
+      "audioSize": 3059087,
+      "audioSha256": "55cf6dde1e55374b612e2b56ad8443ec5ea7cb3aa655af8b18bd0cccdbc37755"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 79,
+      "title": "Truly in Love",
+      "version": 1,
+      "audioUrl": "original-songs/audio/079.mp3",
+      "audioSize": 4217252,
+      "audioSha256": "21478363084ebc81b47a5132348dfd4b1bb78fa49d7be5b233a3e5cc4c802528"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 80,
+      "title": "Important Things",
+      "version": 1,
+      "audioUrl": "original-songs/audio/080.mp3",
+      "audioSize": 3705670,
+      "audioSha256": "b74f1a459f0583bbebd54af5080035c1c7fe29feaac3c6f7154e9f9917ad00e9"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 81,
+      "title": "Inspired by Your Wonders",
+      "version": 1,
+      "audioUrl": "original-songs/audio/081.mp3",
+      "audioSize": 4082669,
+      "audioSha256": "614c3477e226cca322764e597542bf95612fb3859c6ee54425d6797a62a0eb19"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 82,
+      "title": "Look at Me",
+      "version": 1,
+      "audioUrl": "original-songs/audio/082.mp3",
+      "audioSize": 3856971,
+      "audioSha256": "ea7d0300b780adb9418a05f8affa8ddbce992644a8f74c6eeddc9a89c5c82142"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 83,
+      "title": "Let's Take the Leap",
+      "version": 1,
+      "audioUrl": "original-songs/audio/083.mp3",
+      "audioSize": 3872017,
+      "audioSha256": "7832a78cb43e4f88cfb45fd1491b26a4d11b3b1d71367d569d4506ddda26d23e"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 84,
+      "title": "Precious Daughter",
+      "version": 1,
+      "audioUrl": "original-songs/audio/084.mp3",
+      "audioSize": 3730747,
+      "audioSha256": "4a011c9f105204c63784943295d38bd6d24df571ae8258d9c220ee6318b935d6"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 85,
+      "title": "We Marvel at Your Work",
+      "version": 1,
+      "audioUrl": "original-songs/audio/085.mp3",
+      "audioSize": 4137422,
+      "audioSha256": "c03d273a13adb1ae870e2738b2ddefd39f350907abd9e10a0f4c79669b2c4222"
     }
   ]
 }
