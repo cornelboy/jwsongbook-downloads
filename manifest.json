@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T08:35:36.286Z",
+  "generatedAt": "2026-10-04T11:06:38.085Z",
   "collections": [
     {
       "id": "songBook",
@@ -120,7 +120,11 @@
     {
       "number": 13,
       "title": "Christ, Our Model",
-      "collection": "songBook"
+      "collection": "songBook",
+      "version": 1,
+      "audioUrl": "audio/013.mp3",
+      "audioSize": 4345565,
+      "audioSha256": "a06b5c6f49beaeac767cd2f5eff137314150d1b2d9d5c493fa4ad926d86cff89"
     },
     {
       "number": 14,
