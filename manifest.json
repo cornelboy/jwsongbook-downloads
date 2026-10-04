@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T01:50:57.336Z",
+  "generatedAt": "2026-10-04T08:35:36.286Z",
   "collections": [
     {
       "id": "songBook",
@@ -31,8 +31,8 @@
       "audioSize": 3449812,
       "version": 1,
       "lyricsUrl": "lyrics/002.elrc",
-      "lyricsSize": 3035,
-      "lyricsSha256": "587f8927c62bcd49a3ce962f29d406b26abb45c4f76038a3fa90af66a015b7af"
+      "lyricsSize": 3006,
+      "lyricsSha256": "75e8507fc1fe95e5761fb23cf2bcea00acddc0936de676969f0f8e4086403984"
     },
     {
       "number": 3,
