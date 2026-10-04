@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T17:03:50.154Z",
+  "generatedAt": "2026-10-04T01:50:57.336Z",
   "collections": [
     {
       "id": "songBook",
@@ -1251,6 +1251,15 @@
       "audioSha256": "59d0352288485ff6f8316707be575186cf7321057ea36369c1ef11b4db8c4633"
     },
     {
+      "collection": "songBook",
+      "number": 164,
+      "title": "I Trust In You",
+      "version": 1,
+      "audioUrl": "audio/164.mp3",
+      "audioSize": 4004928,
+      "audioSha256": "05831ad75a44b9e7fcb21e079aff18964545d5d5fe0e37408ea9c1531c9bf5ba"
+    },
+    {
       "collection": "originalSongs",
       "number": 1,
       "title": "By Faith",
@@ -2016,6 +2025,294 @@
       "audioUrl": "original-songs/audio/085.mp3",
       "audioSize": 4137422,
       "audioSha256": "c03d273a13adb1ae870e2738b2ddefd39f350907abd9e10a0f4c79669b2c4222"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 86,
+      "title": "I Can Get Back Up",
+      "version": 1,
+      "audioUrl": "original-songs/audio/086.mp3",
+      "audioSize": 3942653,
+      "audioSha256": "d3782d8986423cd06ae0233b3f2d736c492f956c70f175c854b66265129a8947"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 87,
+      "title": "I Keep Your Reminders",
+      "version": 1,
+      "audioUrl": "original-songs/audio/087.mp3",
+      "audioSize": 3861986,
+      "audioSha256": "87765f4c228a117d5d4ab62da77199de78c50fd8c0324313a30c477a7e93296d"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 88,
+      "title": "Faith Can Make Things Happen",
+      "version": 1,
+      "audioUrl": "original-songs/audio/088.mp3",
+      "audioSize": 3985284,
+      "audioSha256": "0b2c676c12f2c42c2e218f0bae619ecb34c58bcc766619f04f2a13a24c164376"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 89,
+      "title": "Building My Future With Jehovah",
+      "version": 1,
+      "audioUrl": "original-songs/audio/089.mp3",
+      "audioSize": 3823116,
+      "audioSha256": "e1123da725e82e574e0f1fba2fbdaa752cf2915f037f26d22b7fde48d705e860"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 90,
+      "title": "Stop, Think, and Pray",
+      "version": 1,
+      "audioUrl": "original-songs/audio/090.mp3",
+      "audioSize": 3668471,
+      "audioSha256": "02d1c23c79683929d3fe9b738a88bf2de15d5a126fdf1147d0111d09b39dfb31"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 91,
+      "title": "Your Word Endures Forever",
+      "version": 1,
+      "audioUrl": "original-songs/audio/091.mp3",
+      "audioSize": 3689787,
+      "audioSha256": "124dda032fbc709a5159e80d08948a14f7c6c131c72da33862a215961dd816e6"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 92,
+      "title": "Study Makes You Strong",
+      "version": 1,
+      "audioUrl": "original-songs/audio/092.mp3",
+      "audioSize": 3568579,
+      "audioSha256": "f5dceb4a105af96cc03f328881716b9008e4c82b6ae8df9ecbb7f97a456c4192"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 93,
+      "title": "Just Around the Corner",
+      "version": 1,
+      "audioUrl": "original-songs/audio/093.mp3",
+      "audioSize": 3060341,
+      "audioSha256": "7f488ad62dac6e4ad6088eb507e02c887f8b156969c8dfdd508b1a024e86ec9c"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 94,
+      "title": "Forgive One Another",
+      "version": 1,
+      "audioUrl": "original-songs/audio/094.mp3",
+      "audioSize": 3173190,
+      "audioSha256": "6d5fb50f4494cc419f30d155f546da324edb7e828de56fc48562c6e2606fa6a0"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 95,
+      "title": "Choices",
+      "version": 1,
+      "audioUrl": "original-songs/audio/095.mp3",
+      "audioSize": 2272488,
+      "audioSha256": "6c672347db048f2553d9a88d61cb57f6ad5e3619ebecc145f020be4bfd122a9b"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 96,
+      "title": "Where I Belong",
+      "version": 1,
+      "audioUrl": "original-songs/audio/096.mp3",
+      "audioSize": 2684177,
+      "audioSha256": "35375762f871239c49ec0710e48236120d05c7f922230dc76bc9a991d9ba2d75"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 97,
+      "title": "Our Thanks Go to You",
+      "version": 1,
+      "audioUrl": "original-songs/audio/097.mp3",
+      "audioSize": 2531622,
+      "audioSha256": "e8ae2d42a4fcf809e72601ad97c3307bdd870d4a30125830e512b459f59b2355"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 98,
+      "title": "Follow the Course of Hospitality",
+      "version": 1,
+      "audioUrl": "original-songs/audio/098.mp3",
+      "audioSize": 3067446,
+      "audioSha256": "cb0cba3fd31104fc9cafd0eeb0453f846b36767264df63af5aca8a98f0b993d9"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 99,
+      "title": "Don't Run So Fast",
+      "version": 1,
+      "audioUrl": "original-songs/audio/099.mp3",
+      "audioSize": 2631933,
+      "audioSha256": "8091c165399359fb32cffccff0e0b14370d8fb627cd6e7f1e905424f7d2b0d6e"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 100,
+      "title": "Blessings of Learning a Language",
+      "version": 1,
+      "audioUrl": "original-songs/audio/100.mp3",
+      "audioSize": 2924086,
+      "audioSha256": "5444c35d7ebd4e818fd9f205eca7a94c9960d76f8c028b39b0b9dbd56ebfbebf"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 101,
+      "title": "Keep the Pace",
+      "version": 1,
+      "audioUrl": "original-songs/audio/101.mp3",
+      "audioSize": 3050310,
+      "audioSha256": "33fa4fedcdb54d7f4c9959b30f0659d870b1d28a0d5fa751958043a33dbcf859"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 102,
+      "title": "Imagine the Time",
+      "version": 1,
+      "audioUrl": "original-songs/audio/102.mp3",
+      "audioSize": 3335358,
+      "audioSha256": "ad628b057c8383fce0081206d2dc88457e573f2fc9a5c3fdd0f8f923a4dc6e19"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 103,
+      "title": "Take Your Time, Choose Wisely",
+      "version": 1,
+      "audioUrl": "original-songs/audio/103.mp3",
+      "audioSize": 3069118,
+      "audioSha256": "6e46b01ab4bca4661c574c99ffd63a851471e70a251fdec3a3351d117e67b380"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 104,
+      "title": "I Give You My Best",
+      "version": 1,
+      "audioUrl": "original-songs/audio/104.mp3",
+      "audioSize": 2972151,
+      "audioSha256": "1f41904e8a9296555f1f873102b728ba1c7e43b6ccdfc2b98062b15305ad552c"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 105,
+      "title": "Joy of Conventions",
+      "version": 1,
+      "audioUrl": "original-songs/audio/105.mp3",
+      "audioSize": 3887064,
+      "audioSha256": "869e8054db4faf274f89384996098f315753b3acef233fe6bb0fe9a382abba52"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 106,
+      "title": "Jehovah Welcomes You Home",
+      "version": 1,
+      "audioUrl": "original-songs/audio/106.mp3",
+      "audioSize": 2904024,
+      "audioSha256": "084bc1edcd3be47ce664897868d4dd21303e6b9c8d2a00f8d91a834be1392769"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 107,
+      "title": "Finding Treasures",
+      "version": 1,
+      "audioUrl": "original-songs/audio/107.mp3",
+      "audioSize": 2096945,
+      "audioSha256": "bf2c544fb91e7d96d3d18ff2e804e9b1f8a0ad6d902eda173ee9fac82f12e063"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 108,
+      "title": "Just a Smile",
+      "version": 1,
+      "audioUrl": "original-songs/audio/108.mp3",
+      "audioSize": 3542666,
+      "audioSha256": "3f0fe96ed9c19c383e9c07215c2b36dfd44509894ecf48cd6ae0179579fafb3c"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 109,
+      "title": "Now Is the Time",
+      "version": 1,
+      "audioUrl": "original-songs/audio/109.mp3",
+      "audioSize": 2781980,
+      "audioSha256": "b3b6cbc0d45c0ede011f8f6bf2b9fdaf08b29510913c858275cb825f66b67c07"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 110,
+      "title": "Glad I Passed the Test",
+      "version": 1,
+      "audioUrl": "original-songs/audio/110.mp3",
+      "audioSize": 2113663,
+      "audioSha256": "2a11d5d075d8b4b010a6ba2b0527f41488d4ac1507f8b5dfc93025cb495ce347"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 111,
+      "title": "Give You My All",
+      "version": 1,
+      "audioUrl": "original-songs/audio/111.mp3",
+      "audioSize": 2284608,
+      "audioSha256": "458bbffed756de319699da9dc815638d9e2343f473be82da56d7d1b92cf4c2e0"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 112,
+      "title": "Honor Jehovah With Your Valuable Things",
+      "version": 1,
+      "audioUrl": "original-songs/audio/112.mp3",
+      "audioSize": 2537474,
+      "audioSha256": "7aa4444262a42bc41cab9c2e901869d982861f733d74698b60958ef52c07f991"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 113,
+      "title": "Never Give Up",
+      "version": 1,
+      "audioUrl": "original-songs/audio/113.mp3",
+      "audioSize": 2524099,
+      "audioSha256": "7ac3f8069745b933e51bedac662e6df6472d62486e9ef7602ce18e6893e5d91e"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 114,
+      "title": "What Means the Most to Me",
+      "version": 1,
+      "audioUrl": "original-songs/audio/114.mp3",
+      "audioSize": 1830705,
+      "audioSha256": "eb4d4c3e12dd683cb77dd6188934929f692b02e0d2701c018ee9e4793eb1a0d0"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 115,
+      "title": "If You Could See What I See",
+      "version": 1,
+      "audioUrl": "original-songs/audio/115.mp3",
+      "audioSize": 2170924,
+      "audioSha256": "284976997caf942efe4ed51c4ac6bedee79096afb456f35ccda1aed11b16d5e3"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 116,
+      "title": "We Won't Forget You",
+      "version": 1,
+      "audioUrl": "original-songs/audio/116.mp3",
+      "audioSize": 3653425,
+      "audioSha256": "30fe337d98ff6607aa106ef00f58610f40418b37493738ebd04907e0342cd6a1"
+    },
+    {
+      "collection": "originalSongs",
+      "number": 117,
+      "title": "The Best Life Ever",
+      "version": 1,
+      "audioUrl": "original-songs/audio/117.mp3",
+      "audioSize": 3368377,
+      "audioSha256": "d3b3ec8691b85f935dc8b1f576a29df6c21afd7c91a4082cda704431032bbdc7"
     }
   ]
 }
